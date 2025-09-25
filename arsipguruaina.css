@@ -27,6 +27,8 @@ h2.date-header{display:none}
 #menu ul.menus a:hover{background:#333;}
 .selectnav{display:none;background-color:$(main.bb.color);height: 46px;
 overflow: hidden;padding:2px 5px;box-sizing:border-box;border:0}
+
+.post-article {display: block;  unicode-bidi: isolate;}
 .tm-head #social-top{position:relative;display:block;float:left;margin-right:0}
 .tm-head #social-top ul{overflow:hidden}
 .tm-head #social-top ul li{height:46px;line-height:46px;display:block;float:left;margin-left:5px;padding:0}
@@ -527,3 +529,4 @@ blockquote:after{content:'\f10e';display:inline-block;font-family:FontAwesome;fo
 @media screen and (max-width:380px){#item-wrapper{padding:30px 20px}.block-image,.block-image .thumb,.block-image .thumb img{height:90px;width:90px}.error-item{font-size:140px}}
 
 @media screen and (max-width:310px){#header-blog{padding:30px 0}.header-logo img{max-width:100%}.header-menu #menu .selectnav{max-width:50%}#slider-sec{display:none}.share-box{height:auto}.ib-nav li{width:100%;padding:0!important}.tm-head #social-top,#sidebar-wrapper,.share-art a span,.footer-social a span,.sect-left{display:none}.share-art a i{margin-right:0}.footer-social a,.share-art a{margin:10px 10px}.error-item{font-size:100px}.showpageNum a,.showpage a,.showpagePoint{margin-right:5px}.footer-wrapper .copyright{height:auto;line-height:1.4em}}
+
